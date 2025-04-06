@@ -1,0 +1,13 @@
+# envs
+.*.env
+*.keys
+*.secret
+
+# packages
+node_modules
+
+dist
+build
+
+#  lock files other than package
+bun.lockb
